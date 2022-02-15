@@ -2,7 +2,7 @@
 
 I am Akshay Thakur from Delhi, India. I do web development and enjoy learning languages and framworks like react and react native. You can check out my projects here.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshayThakur1995)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AkshayThakur1995/AkshayThakur1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
