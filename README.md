@@ -1,6 +1,6 @@
 ### Hi there 👋, Akshay Thakur
 #### Full Stack Developer
-I am currently pursuing full-stack web development from masai school and learning many soft skills as well.
+I love exploring new Technologies.
 In my free time, I enjoy playing cricket, video games and interacting with new people.
 
 Skills: NodeJS / REACT / JS / HTML / CSS / Redux / MongoDB
