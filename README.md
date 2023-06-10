@@ -6,7 +6,6 @@ In my free time, I enjoy playing cricket, video games and interacting with new p
 Skills: NodeJS / REACT / JS / HTML / CSS / Redux / MongoDB
 
 - 🔭 I’m currently working on MERN Stack Project 
-- 🌱 I’m currently learning ReactJS 
 - 📫 How to reach me: akshaymarx08@gmail.com 
 
 
